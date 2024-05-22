@@ -8,7 +8,7 @@ I'm a 4th-year Computer Science undergraduate with a deep interest in distribute
 
 - 🔭 Currently working on projects involving distributed systems and exploring how machine learning can be integrated into these systems.
 - 🌱 Enhancing my knowledge of machine learning algorithms, data analytics, and their applications in real-world problems.
-- 💼 Seeking internship opportunities where I can apply my knowledge in distributed systems and machine learning.
+- 💼 Seeking NewGrad opportunities where I can apply my knowledge in distributed systems and machine learning.
 
 
 <!---

@@ -2,7 +2,7 @@
 
 ## 👨‍🎓 About Me
 
-I'm a 4th-year Computer Science undergraduate with a deep interest in distributed systems and machine learning. My academic journey has been enriched with experiences in Python, C/C++, RTOS, and recently, the exciting realm of machine learning. I am dedicated to leveraging these skills to develop innovative, scalable solutions, particularly at the intersection of distributed computing and AI.
+I'm a Computer Engineering graduate student with a deep interest in distributed systems and machine learning. My academic journey has been enriched with experiences in Python, C/C++, RTOS, and recently, the exciting realm of machine learning. I am dedicated to leveraging these skills to develop innovative, scalable solutions, particularly at the intersection of distributed computing and AI.
 
 ## 🎓 Current Focus
 
